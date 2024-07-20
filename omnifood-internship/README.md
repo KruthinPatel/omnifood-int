@@ -19,6 +19,4 @@ Having created the website from scratch, I learned how to create and implement f
 - Marquee animation in hero section using `@keyframes` and not the deprecated `<marquee>` tag
 - Utilized grid, flexbox and absolute positioning
 
-# Hero
-<a href="https://omnifood-kruthin.netlify.app/" target="_blank">
-<img src="C:\Users\DELL\Desktop\internship\omnifood-internship\assets\hero\Screenshot 2024-07-20 194013.png" style="max-width:100%;"></a>
+
